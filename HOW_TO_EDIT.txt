@@ -1,0 +1,1 @@
+افتح admin.html ثم عدّل البيانات واضغط حفظ، وبعدها تصدير الموقع. سيُنزّل almajd-website-updated.html.
